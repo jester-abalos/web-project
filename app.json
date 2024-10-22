@@ -26,7 +26,11 @@
     [
       "expo-font",
       {
-        "fonts": ["./assets/fonts/Poppins-ExtraBold.ttf"]
+        "fonts": [
+          "./assets/fonts/Poppins-Regular.ttf",
+          "./assets/fonts/Poppins-ExtraBold.ttf"
+        ]
+        
       }
     ]
   ]
